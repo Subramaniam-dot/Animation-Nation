@@ -2066,6 +2066,13 @@ let cards = [
     imageLink: './Art/Loukas4/Circles.gif',
     author: 'Loukas',
     githubLink: 'https://github.com/Loukas4'
+  },
+  {
+    artName: 'Funky movements',
+    pageLink: './Art/Subramaniam-dot/snake.html',
+    imageLink: './Art/Subramaniam-dot/animation.gif',
+    author: 'Subramaniam',
+    githubLink: 'https://github.com/Subramaniam-dot'
   }
 ];
 
